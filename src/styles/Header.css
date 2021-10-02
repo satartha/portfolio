@@ -1,0 +1,72 @@
+.header-main{
+  display: flex; 
+  justify-content: space-between;
+  align-items: center;   
+  position: relative;
+
+}
+.navbar_project a{
+   text-decoration: none;
+   color: black;
+   font-size: 18px;
+   font-weight: bold;
+}
+#sidebar{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.icon_link{
+  display: flex;
+  align-items: center;
+  
+  
+}
+.cursor{
+  cursor: pointer;
+}
+.icon_link label{
+  margin-left: 8px;
+}
+
+.header-main div{
+    margin-left:30px;
+    margin-right:30px;
+}
+.navbar_project{
+  display: flex;
+  align-items: center;
+  
+}
+.side-bar-icon{
+  display: none;
+}
+
+@media only screen and (max-width:710px)
+{
+  .navbar_project{
+    display: none;
+    
+    
+  }
+  
+  .side-bar-icon{
+    display: block;
+    cursor: pointer;
+  }
+     
+}
+@media only screen and (max-width:710px)
+{
+  .navbar_project{
+    display: none;
+    
+    
+  }
+  
+  .side-bar-icon{
+    display: block;
+    cursor: pointer;
+  }
+     
+}

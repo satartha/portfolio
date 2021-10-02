@@ -1,0 +1,7 @@
+.divider{
+    background-image: linear-gradient(to right top, #6b81d1, #7e83d8, #9184de, #a485e2, #b886e5, #ab94f1, #9ea2f9, #93aeff, #66c5ff, #35daff, #2decff, #5ffbf1);
+    height: 6px;
+    width: 40%;
+    margin: 29px 0px;
+    border-radius: 3px;
+}
