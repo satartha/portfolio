@@ -5,7 +5,7 @@ import Social_info from './Social_info'
 function About() {
     return (
         <section id="about" className="about_section">
-            <h4 className="title_style">About</h4>
+            
             <div className="about-info">
                 <div className="info-info">
                     <h4> I'm <span className="color">SATARTHA PRAKASH PARIDA</span>. <br></br>

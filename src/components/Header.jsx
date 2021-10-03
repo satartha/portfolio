@@ -16,7 +16,7 @@ function Header() {
         
             
             <div>
-                <h4>HEADER TITLE</h4>
+                <h4 className="header_title">folio</h4>
             </div>
             <div className="navbar_project">
                 <div className="cursor">
