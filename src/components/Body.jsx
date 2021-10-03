@@ -9,6 +9,7 @@ import Work from './Work'
 
 
 
+
 function Body() {
     return (
         <div className="body-div">
@@ -21,6 +22,7 @@ function Body() {
             <Work />
             <Divider />
             <Contact />
+            
 
             
         </div>
