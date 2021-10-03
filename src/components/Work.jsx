@@ -5,7 +5,7 @@ function Work() {
     return (
         <section id="work" className="work_section">
             <h4 className="title_style">Work</h4>
-            <label class="msg_style">I'm a Fresher,egerly waiting for the first opportunity</label>
+            <label class="msg_style">I'm a Fresher,eagerly waiting for the first opportunity</label>
             
         </section>
     )
